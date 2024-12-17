@@ -168,7 +168,7 @@ Give credit here.
  - Anushameena S
 
 ## Contact
-Created by [@Anushameena-S]( https://github.com/Anushameena-S- feel free to contact us!
+Created by [@Anushameena-S]( https://github.com/Anushameena-S) - feel free to contact us!
 
 Developed as part of the Linear Regression Module required for Post Graduate Diploma in Machine Learning and AI - IIIT, Bangalore by Upgrad.
 
